@@ -1,0 +1,11 @@
+public class ABCD
+{
+	int a,b,c;
+	public void main()
+	{
+		int b;
+	}
+	private funs()
+	{
+	}
+}
